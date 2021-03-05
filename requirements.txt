@@ -1,4 +1,3 @@
-emagpy
 numpy
 matplotlib
 pandas
@@ -10,3 +9,5 @@ tqdm
 ipympl
 voila
 pyvista
+git+git clone https://gitlab.com/hkex/emagpy
+
