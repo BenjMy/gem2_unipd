@@ -1,0 +1,12 @@
+emagpy
+numpy
+matplotlib
+pandas
+scipy
+pyproj
+spotpy
+joblib
+tqdm
+ipympl
+voila
+pyvista
